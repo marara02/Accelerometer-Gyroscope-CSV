@@ -92,7 +92,6 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
     }
 
 
-
     public void FileWriters(String str) {
         SimpleDateFormat dateObj = new SimpleDateFormat("dd/MM/yyyy");
         Calendar calendar = Calendar.getInstance();
